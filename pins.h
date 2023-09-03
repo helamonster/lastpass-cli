@@ -1,6 +1,8 @@
 #ifndef PINS_H
 #define PINS_H
 const char *PK_PINS[] = {
+	/* new */
+	"YDjIAXSYj+mh+25FGifAiKN4oNOAj+as6gQv4naQG0M=",
 	/* future lastpass root CA (GlobalSign R1) */
 	"K87oWBWM9UZfyddvDfoxL+8lpNyoUB2ptGtn0fv6G2Q=",
 	/* future lastpass root CA (GlobalSign R2) */
